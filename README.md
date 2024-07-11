@@ -12,7 +12,8 @@ O projeto será produzir um software que servirá para organizar os squads que s
 
 ## 1. Backend
 1. (feito) Criação do modelo relacional do banco de dados
-    1.1 (BRmodelo) https://app.brmodeloweb.com/#!/conceptual/668c641efd5937970fc931a1
+    1.1 [BRmodelo] (https://app.brmodeloweb.com/#!/conceptual/668c641efd5937970fc931a1)
+
     **NOTA: Evitar muitas operações no banco de dados**
 2. Haverá a criação de 3 CRUDs para o projeto
 3. A divisão será feita em Mentores, Alunos e Empresas
@@ -25,7 +26,9 @@ O projeto será produzir um software que servirá para organizar os squads que s
 
 -[CoreFramework](https://learn.microsoft.com/pt-br/ef/core/)
 
--[Paginação](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjn3ebT_p-HAxXDkZUCHdcpBJUQFnoECBYQAQ&url=https%3A%2F%2Flearn.microsoft.com%2Fpt-br%2Faspnet%2Fmvc%2Foverview%2Folder-versions-1%2Fnerddinner%2Fimplement-efficient-data-paging&usg=AOvVaw3W7UI2755n5hH9-Jx8yC-P&opi=89978449) **NOTA: verificar o calculo do fitro de paginação.**
+-[Paginação](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjn3ebT_p-HAxXDkZUCHdcpBJUQFnoECBYQAQ&url=https%3A%2F%2Flearn.microsoft.com%2Fpt-br%2Faspnet%2Fmvc%2Foverview%2Folder-versions-1%2Fnerddinner%2Fimplement-efficient-data-paging&usg=AOvVaw3W7UI2755n5hH9-Jx8yC-P&opi=89978449)
+
+**NOTA: verificar o calculo do fitro de paginação.**
 
 -[Depemdecy Injection]()
 
