@@ -20,32 +20,30 @@ O projeto será produzir um software que servirá para organizar os squads que s
 
 
 
-
-
 ### Fontes 
-- [ Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
+- [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 
--[CoreFramework] (https://learn.microsoft.com/pt-br/ef/core/)
+-[CoreFramework](https://learn.microsoft.com/pt-br/ef/core/)
 
--[Paginação] (https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjn3ebT_p-HAxXDkZUCHdcpBJUQFnoECBYQAQ&url=https%3A%2F%2Flearn.microsoft.com%2Fpt-br%2Faspnet%2Fmvc%2Foverview%2Folder-versions-1%2Fnerddinner%2Fimplement-efficient-data-paging&usg=AOvVaw3W7UI2755n5hH9-Jx8yC-P&opi=89978449) **NOTA: verificar o calculo do fitro de paginação.**
+-[Paginação](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjn3ebT_p-HAxXDkZUCHdcpBJUQFnoECBYQAQ&url=https%3A%2F%2Flearn.microsoft.com%2Fpt-br%2Faspnet%2Fmvc%2Foverview%2Folder-versions-1%2Fnerddinner%2Fimplement-efficient-data-paging&usg=AOvVaw3W7UI2755n5hH9-Jx8yC-P&opi=89978449) **NOTA: verificar o calculo do fitro de paginação.**
 
--[Depemdecy Injection] ()
+-[Depemdecy Injection]()
 
--[Inversion of Control] ()
+-[Inversion of Control]()
 
--[Unity of Work] (https://dotnettutorials.net/lesson/unit-of-work-csharp-mvc/#:~:text=The%20Unit%20of%20Work%20Pattern,will%20roll%20back%20the%20transaction.)
+-[Unity of Work](https://dotnettutorials.net/lesson/unit-of-work-csharp-mvc/#:~:text=The%20Unit%20of%20Work%20Pattern,will%20roll%20back%20the%20transaction.)
 
--[Repositories] (https://learn.microsoft.com/en-us/aspnet/mvc/overview/older-versions/getting-started-with-ef-5-using-mvc-4/implementing-the-repository-and-unit-of-work-patterns-in-an-asp-net-mvc-application)
+-[Repositories](https://learn.microsoft.com/en-us/aspnet/mvc/overview/older-versions/getting-started-with-ef-5-using-mvc-4/implementing-the-repository-and-unit-of-work-patterns-in-an-asp-net-mvc-application)
 
--[Parametros genéricos] (https://learn.microsoft.com/pt-br/dotnet/csharp/programming-guide/generics/generic-type-parameters)
+-[Parametros genéricos](https://learn.microsoft.com/pt-br/dotnet/csharp/programming-guide/generics/generic-type-parameters)
 
--[Reflection em C#] (https://stackify.com/what-is-c-reflection/#:~:text=of%20C%23%20reflection.-,What%20Is%20Reflection%20In%20C%23%3F,and%20even%20create%20code%20dynamically.)
+-[Reflection em C#](https://stackify.com/what-is-c-reflection/#:~:text=of%20C%23%20reflection.-,What%20Is%20Reflection%20In%20C%23%3F,and%20even%20create%20code%20dynamically.)
 
--[Valued Objects and Records] ()
+-[Valued Objects and Records]()
 
--[Delegates] (https://learn.microsoft.com/pt-br/dotnet/csharp/programming-guide/delegates/)
+-[Delegates](https://learn.microsoft.com/pt-br/dotnet/csharp/programming-guide/delegates/)
 
-[Predicates] (https://learn.microsoft.com/en-us/dotnet/api/system.predicate-1?view=net-8.0)
+[Predicates](https://learn.microsoft.com/en-us/dotnet/api/system.predicate-1?view=net-8.0)
 
--[Stateless Requests] ()
+-[Stateless Requests]()
 
