@@ -24,3 +24,24 @@ O projeto será produzir um software que servirá para organizar os squads que s
 
 ### Fontes 
 - [ Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
+
+-[CoreFramework] ()
+
+-[Paginação] () **NOTA: verificar o calculo do fitro de paginação.**
+
+-[Depemdecy Injection] ()
+
+-[Inversion of Control] ()
+
+-[Unity of Work] ()
+
+-[Parametros genéricos] ()
+
+-[Reflection em C#] ()
+
+-[Valued Objects and Records] ()
+
+-[Predicate C#] ()
+
+-[Stateless Requests] ()
+
