@@ -50,3 +50,13 @@ O projeto será produzir um software que servirá para organizar os squads que s
 
 - [Stateless Requests]()
 
+- [Controller](https://learn.microsoft.com/pt-br/aspnet/mvc/overview/older-versions-1/controllers-and-routing/creating-a-controller-cs)
+
+- [REST](https://pt.wikipedia.org/wiki/REST)
+
+- [Restful](https://www.integrate.io/blog/rest-api-standards/)
+
+- [SWAGGER Framework](https://swagger.io)
+
+- [Controller](https://learn.microsoft.com/pt-br/aspnet/mvc/overview/older-versions-1/controllers-and-routing/creating-a-controller-cs)
+
