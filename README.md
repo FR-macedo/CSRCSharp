@@ -60,3 +60,8 @@ O projeto será produzir um software que servirá para organizar os squads que s
 
 - [Controller](https://learn.microsoft.com/pt-br/aspnet/mvc/overview/older-versions-1/controllers-and-routing/creating-a-controller-cs)
 
+- [SIgnalR]()
+
+- [WebModelling]()
+
+- []
